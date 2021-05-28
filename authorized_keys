@@ -1,2 +1,2 @@
-ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBMUxokbxxE+JPUJlJjbLi3iVrzIB61+tHqhdv66QxH6G3hSRCgFJY+aFXUmz6b4oRNkEYq1EDxtNcyhgzcUgWck= <ssh://shellwhale@vault.whalewave.net|nist256p1>
+ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBA9oWi92R3DqSGvqKiSDkxY3oxTiG+0gC9ZFCJ8CKCaTmzx3/ibe2ANGGtce5u12dwoFzP34sRzLv2VUBcjF62s= <ssh://shellwhale@vault.whalewave.net|nist256p1>
 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBCm71fK67N+HvBOXpfBxcvmD154UaIAccf3Iqup09atqLcCD4XsAHk5ueO25VenccjvvD7d4HwaGnEOX27Zl2jw= <ssh://root@vault.whalewave.net|nist256p1>
